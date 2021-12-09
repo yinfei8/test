@@ -1,0 +1,3 @@
+---@class one1
+---@field two string
+---@field threee string
