@@ -1,0 +1,2 @@
+---@type fffs
+local one
